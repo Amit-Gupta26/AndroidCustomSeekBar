@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="slider_text_size_normal">15</integer>
+    <integer name="slider_text_size_high">13</integer>
+    <integer name="slider_text_size_medium">12</integer>
+    <integer name="slider_text_size_low">10</integer>
+    <integer name="slider_unit_reduction">40</integer>
+
+</resources>
